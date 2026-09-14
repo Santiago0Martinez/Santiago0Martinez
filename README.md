@@ -14,10 +14,10 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santiago0Martinez&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Santiago0Martinez&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiago0Martinez&theme=tokyonight&hide_border=true" height="165" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago0Martinez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago0Martinez&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 ---
